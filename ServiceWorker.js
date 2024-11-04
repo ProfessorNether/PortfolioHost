@@ -1,9 +1,9 @@
 const cacheName = "ShiningPotionStudios-Portfolio 2D Game-1.0";
 const contentToCache = [
-    "Build/Builds.loader.js",
-    "Build/Builds.framework.js.br",
-    "Build/Builds.data.br",
-    "Build/Builds.wasm.br",
+    "Build/PortfolioHost.loader.js",
+    "Build/PortfolioHost.framework.js.gz",
+    "Build/PortfolioHost.data.gz",
+    "Build/PortfolioHost.wasm.gz",
     "TemplateData/style.css"
 
 ];
